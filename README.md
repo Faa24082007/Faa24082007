@@ -2,7 +2,7 @@
 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- - 💻 Mergulhando no mundo da programação em JavaScript
+-  💻 Mergulhando no mundo da programação em JavaScript
 - 🚀 Criando projetos incríveis e inovadores
 - 🌟 Compartilhando todas as novidades por aqui
 
